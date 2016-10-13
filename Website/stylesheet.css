@@ -1,11 +1,154 @@
 body {
 	background-image: url("images/background2.jpg");
-	background-repeat: no-repeat;
-	background-position: top center;
+	background-repeat: repeat;
+	background-position: top;
 	color: white;
 	font-family: arial;
+	overflow-y: scroll;
+	overflow-x:hidden;
 }
 
 h1 {
 	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#name{
+	font-size:12px;
+}
+
+#judaism{
+	position: relative;
+	width: 600px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	background-image: url('images/');
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#judaismlink {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#judaism:hover{
+	border: 10px solid #00c423;
+}
+
+#judaism:active{
+	border: 10px solid #5600ad;
+}
+
+#hinduism{
+	position: relative;
+	width: 600px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	background-image: url('images/');
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#hinduismlink {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#hinduism:hover{
+	border: 10px solid #00c423;
+}
+
+#hinduism:active{
+	border: 10px solid #5600ad;
+}
+
+#buddhism {
+	position: relative;
+	width: 600px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	background-image: url('images/bodhitree.jpg');
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#buddhismlink {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#buddhism:hover{
+	border: 10px solid #00c423;
+}
+
+#buddhism:active{
+	border: 10px solid #5600ad;
+}
+
+#christianity{
+	position: relative;
+	width: 600px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	background-image: url('images/cross.jpg');
+	margin-bottom: 50px;
+}
+
+#christianitylink{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#christianity:hover{
+	border: 10px solid #00c423; 
+}
+
+#christianity:active{
+	border: 10px solid #5600ad;	
+}
+
+#islam{
+	position: relative;
+	width: 600px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	background-image: url('images/');
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#islamlink {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#islam:hover{
+	border: 10px solid #00c423;
+}
+
+#islam:active{
+	border: 10px solid #5600ad;
+}
+
+#help {
+	text-align: left;
 }
