@@ -28,7 +28,6 @@ p {
 	margin: auto;
 	background-image: url('images/star.jpg');
 	margin-top: 100px;
-	margin-bottom: 50px;
 }
 
 #judaismlink {
@@ -52,9 +51,7 @@ p {
 	height: 300px;
 	border: 10px solid white;
 	margin: auto;
-	background-image: url('images/');
-	margin-top: 100px;
-	margin-bottom: 50px;
+	background-image: url('images/hinduism.jpg');
 }
 
 #hinduismlink {
@@ -79,8 +76,6 @@ p {
 	border: 10px solid white;
 	margin: auto;
 	background-image: url('images/bodhitree.jpg');
-	margin-top: 100px;
-	margin-bottom: 50px;
 }
 
 #buddhismlink {
@@ -105,7 +100,6 @@ p {
 	border: 10px solid white;
 	margin: auto;
 	background-image: url('images/cross.jpg');
-	margin-bottom: 50px;
 }
 
 #christianitylink{
@@ -129,9 +123,7 @@ p {
 	height: 300px;
 	border: 10px solid white;
 	margin: auto;
-	background-image: url('images/');
-	margin-top: 100px;
-	margin-bottom: 50px;
+	background-image: url('images/islam.jpg');
 }
 
 #islamlink {
@@ -151,4 +143,8 @@ p {
 
 #help {
 	text-align: left;
+}
+
+#list {
+	margin-bottom: 50px;
 }
