@@ -1,0 +1,7 @@
+#judaismbody {
+	background-image: url('images/starbackground.jpg');
+	background-position: fixed;
+	height: 100%;
+	width: 100%;
+	color: black;
+}
