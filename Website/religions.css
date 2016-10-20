@@ -1,7 +1,29 @@
-#judaismbody {
-	background-image: url('images/starbackground.jpg');
-	background-position: fixed;
-	height: 100%;
-	width: 100%;
-	color: black;
+#jud {
+	background-image: url('images/starimg.png');
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+#hud {
+	background-image: url('images/omimg.png');
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+#bud {
+	background-image: url('images/treeimg.png');
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+#chr {
+	background-image: url('images/crossimg.png');
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+#isl {
+	background-image: url('images/crescentimg.png');
+	background-position: center left;
+	background-repeat: no-repeat;
 }
