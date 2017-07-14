@@ -1,2 +1,2 @@
-# Website
+# World Religions
 If you're reading this, I said not to... You rebel...
