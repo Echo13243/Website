@@ -1,2 +1,2 @@
 # Website
-A small personal website I am developing. Feel free to contribute and give feedback!
+If you're reading this, I said not to... You rebel...
